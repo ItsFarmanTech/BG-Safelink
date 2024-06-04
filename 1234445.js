@@ -16,7 +16,6 @@ document.addEventListener('DOMContentLoaded', function() {
       bgWW.style.display = "block";
       var BGp = document.getElementById('bgLoad');
       BGp.style.textAlign = "center";
-      document.getElementById(BGwid).style.textAlign = "-webkit-center";
       BGp.innerHTML = "<h4 style='font-family:bgFont;'>Please purchase the BG-Safelink Script for your Domain<br/>Directly from the owner, <span style='color:red;'>Farman Qureshi</span>.<br/>Message on WhatsApp at [ <span style='color:red;'>+918445031253</span> ] for more information</h4><br/><a class='foil-image iftbtn-1 iftbtn-2' href='https://wa.link/uj57hb' style='font-family:bgFont;color:#fff;' target='_blank'>Buy Now</a>";
       var bgmainBTN1 = document.getElementById("bgMainBTN1");
       var bgmainBTN2 = document.getElementById("bgMainBTN2");
