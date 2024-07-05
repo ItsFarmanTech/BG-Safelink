@@ -10,6 +10,6 @@ function checkUniqueId() {
   if (gdriveLink !== "") {
     var element = window.open(gdriveLink);
   } else {
-    alert("First, you need to purchase the Download Timer script to generate your unique-ID.");
+    alert("First, you need to purchase the BG-Safelink script to generate your unique-ID.");
   }
 }
